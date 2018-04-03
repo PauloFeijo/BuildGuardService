@@ -13,3 +13,4 @@ D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\bin\Debug\Json
 D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\bin\Debug\Newtonsoft.Json.xml
 D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\obj\Debug\BuildGuardService.csproj.CopyComplete
 D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\bin\Debug\Ini.Net.dll
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\obj\Debug\BuildGuardService.csprojResolveAssemblyReference.cache
