@@ -1,0 +1,15 @@
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\bin\Debug\BuildGuardService.exe.config
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\bin\Debug\BuildGuardService.exe
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\bin\Debug\BuildGuardService.pdb
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\obj\Debug\BuildGuardService.csproj.CoreCompileInputs.cache
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\obj\Debug\BuildGuardService.exe
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\obj\Debug\BuildGuardService.pdb
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\obj\Debug\BuildGuardService.ProjectInstaller.resources
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\obj\Debug\BuildGuardService.csproj.GenerateResource.cache
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\bin\Debug\Json.dll
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\bin\Debug\Json.NET.Web.dll
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\bin\Debug\Newtonsoft.Json.dll
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\bin\Debug\Json.pdb
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\bin\Debug\Newtonsoft.Json.xml
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\obj\Debug\BuildGuardService.csproj.CopyComplete
+D:\Cursos\PosWebMobile\TCC\VS\BuildGuardService\BuildGuardService\bin\Debug\Ini.Net.dll
